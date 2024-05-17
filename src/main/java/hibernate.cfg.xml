@@ -15,6 +15,7 @@
         <mapping class="entity.Paciente" />
         <mapping class="entity.Medico" />
         <mapping class="entity.Especialidad" />
+        <mapping class="entity.Turno" />
         
     </session-factory>
 </hibernate-configuration>
